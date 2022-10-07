@@ -18,13 +18,12 @@ namespace Client.Controllers
             _context = context;
         }
 
-        // GET: Clients
+     
         public async Task<IActionResult> Index()
         {
               return View(await _context.ClientInfos.ToListAsync());
         }
 
-        // GET: Clients/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.ClientInfos == null)
@@ -42,15 +41,11 @@ namespace Client.Controllers
             return View(clientInfo);
         }
 
-        // GET: Clients/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Clients/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,FirstName,LastName,Email,Address,MobileNumber")] ClientInfo clientInfo)
@@ -64,7 +59,6 @@ namespace Client.Controllers
             return View(clientInfo);
         }
 
-        // GET: Clients/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.ClientInfos == null)
@@ -80,9 +74,6 @@ namespace Client.Controllers
             return View(clientInfo);
         }
 
-        // POST: Clients/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,FirstName,LastName,Email,Address,MobileNumber")] ClientInfo clientInfo)
@@ -115,7 +106,6 @@ namespace Client.Controllers
             return View(clientInfo);
         }
 
-        // GET: Clients/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.ClientInfos == null)
@@ -133,7 +123,6 @@ namespace Client.Controllers
             return View(clientInfo);
         }
 
-        // POST: Clients/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
