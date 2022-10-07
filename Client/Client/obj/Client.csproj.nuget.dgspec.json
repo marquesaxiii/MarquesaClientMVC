@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Net Core\\MarquesaProjects\\Client\\Client\\Client.csproj": {}
+    "C:\\Projects\\Net Core\\MarquesaProjects\\MarquesaClientMVC\\Client\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Net Core\\MarquesaProjects\\Client\\Client\\Client.csproj": {
+    "C:\\Projects\\Net Core\\MarquesaProjects\\MarquesaClientMVC\\Client\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Net Core\\MarquesaProjects\\Client\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Projects\\Net Core\\MarquesaProjects\\MarquesaClientMVC\\Client\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Projects\\Net Core\\MarquesaProjects\\Client\\Client\\Client.csproj",
+        "projectPath": "C:\\Projects\\Net Core\\MarquesaProjects\\MarquesaClientMVC\\Client\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\jembr\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Net Core\\MarquesaProjects\\Client\\Client\\obj\\",
+        "outputPath": "C:\\Projects\\Net Core\\MarquesaProjects\\MarquesaClientMVC\\Client\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

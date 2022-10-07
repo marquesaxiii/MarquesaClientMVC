@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Client
 build_property.RootNamespace = Client
-build_property.ProjectDir = C:\Projects\Net Core\MarquesaProjects\Client\Client\
+build_property.ProjectDir = C:\Projects\Net Core\MarquesaProjects\MarquesaClientMVC\Client\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projects\Net Core\MarquesaProjects\Client\Client
+build_property.MSBuildProjectDirectory = C:\Projects\Net Core\MarquesaProjects\MarquesaClientMVC\Client\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Clients/Create.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Clients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Clients/Delete.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Clients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Clients/Details.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Clients/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Clients/Edit.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Clients/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Clients/Index.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Clients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Home/Index.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Home/Privacy.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Shared/Error.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/_ViewImports.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/_ViewStart.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/Net Core/MarquesaProjects/Client/Client/Views/Shared/_Layout.cshtml]
+[C:/Projects/Net Core/MarquesaProjects/MarquesaClientMVC/Client/Client/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j41ub9gw8f
